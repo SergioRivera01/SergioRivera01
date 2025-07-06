@@ -12,7 +12,7 @@ I like to play videogames, do sports and above all program whatever.
 
 
 ## 🛠 Skills
-Currently I have studied: applications development, and videogame desing#
+Currently I have studied: applications development (HTML-CSS, Java, Database), and videogame desing (Unity and Unreal Engine 5)
 
 
 ## Other Common Github Profile Sections
