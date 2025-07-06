@@ -12,7 +12,7 @@ I like to play videogames, do sports and above all program whatever.
 
 
 ## 🛠 Skills
-Currently I have studied: HTML and CSS, Bootstrap, JavaScript, Java, Kotlin, Swift, PHP and C#
+Currently I have studied: applications development, and videogame desing#
 
 
 ## Other Common Github Profile Sections
